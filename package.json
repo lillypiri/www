@@ -1,18 +1,13 @@
 {
-  "name": "nathanhoad",
+  "name": "lillypiri",
   "version": "6.0.4",
-  "description": "The code that powers https://nathanhoad.net",
+  "description": "The code that powers https://lillypiri.com",
   "private": true,
   "main": "index.js",
   "scripts": {
     "start": "node ."
   },
-  "author": "Nathan Hoad",
-  "homepage": "https://github.com/nathanhoad/nathanhoad#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/nathanhoad/nathanhoad.git"
-  },
+  "author": "Lilly Piri",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
@@ -22,7 +17,7 @@
     "fs-extra": "^7.0.1",
     "helmet": "^3.15.0",
     "html-minifier": "^3.5.21",
-    "marked": "^0.5.2",
+    "marked": "^0.6.2",
     "node-sass": "^4.11.0"
   },
   "devDependencies": {

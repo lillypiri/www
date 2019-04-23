@@ -122,17 +122,7 @@ async function getPosts() {
       });
 
       // Share image
-      if (post.headers.share) {
-        if (!post.headers.share.match(/^http/) && !post.headers.share.match(/^\//)) {
-          post.headers.share = `https://nathanhoad.net/${post.slug}/${post.headers.share}`;
-        }
-      } else {
-        if (post.headers.tags.includes('painting')) {
-          post.headers.share = 'https://nathanhoad.net/share-painting.jpg';
-        } else {
-          post.headers.share = 'https://nathanhoad.net/share.jpg';
-        }
-      }
+      post.headers.share = 'https://lillypiri.com/paintings/PIRI_L_Patience.jpg';
 
       // Share description
       if (!post.headers.description) {
