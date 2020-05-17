@@ -5,6 +5,20 @@
 - description: Paintings by Lilly Piri 
 
 <figure class="full">
+  <img src="PIRI_L_While_Loop.jpg" />
+  <figcaption>
+  <i>While Loop</i>, 2019, Acrylic on canvas,  250 x 200 mm.
+  </figcaption>
+</figure>
+
+<figure class="full">
+  <img src="PIRI_L_Souvenirs.png" />
+  <figcaption>
+  <i>Souvenirs</i>, 2019, Acrylic on canvas,  760 x 920 mm.
+  </figcaption>
+</figure>
+
+<figure class="full">
   <img src="PIRI_L_Thumbelina_Self_Portrait.jpg" />
   <figcaption>
   <i>Thumbelina (self portrait as a young girl)</i>, 2019, Acrylic on canvas,  915 x 460 mm.
