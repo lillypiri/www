@@ -5,6 +5,13 @@
 - description: Paintings by Lilly Piri 
 
 <figure class="full">
+  <img src="PIRI_L_Working_Remotely.jpg" />
+  <figcaption>
+  <i>Working Remotely</i>, 2020, Acrylic on canvas,  510 x 760 mm.
+  </figcaption>
+</figure>
+
+<figure class="full">
   <img src="PIRI_L_While_Loop.jpg" />
   <figcaption>
   <i>While Loop</i>, 2020, Acrylic on canvas,  250 x 200 mm.
@@ -12,7 +19,7 @@
 </figure>
 
 <figure class="full">
-  <img src="PIRI_L_Souvenirs.png" />
+  <img src="PIRI_L_Souvenirs.jpg" />
   <figcaption>
   <i>Souvenirs</i>, 2019, Acrylic on canvas,  760 x 920 mm.
   </figcaption>
