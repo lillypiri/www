@@ -5,6 +5,20 @@
 - description: Paintings by Lilly Piri 
 
 <figure class="full">
+  <img src="PIRI_L_Studio.jpg" />
+  <figcaption>
+  <i>Studio Study</i>, 2020, Oil on panel,  127 x 176 mm.
+  </figcaption>
+</figure>
+
+<figure class="full">
+  <img src="PIRI_L_Coconut_In_Yard.jpg" />
+  <figcaption>
+  <i>Coconut in the Yard</i>, 2020, Acrylic on canvas,  255 x 310 mm.
+  </figcaption>
+</figure>
+
+<figure class="full">
   <img src="PIRI_L_Working_Remotely.jpg" />
   <figcaption>
   <i>Working Remotely</i>, 2020, Acrylic on canvas,  510 x 760 mm.
